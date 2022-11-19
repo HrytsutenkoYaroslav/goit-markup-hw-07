@@ -1,0 +1,44 @@
+.about h3 {
+    font-size: 14px;
+    line-height: 1.15;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+  .about-header {
+    margin-bottom: 10px;
+    margin-top: 30px;
+  }
+  .about p {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+  }
+  .about {
+    padding-bottom: 0px;
+  }
+  .about-list {
+    display: flex;
+    gap: 30px;
+  }
+  .work-header {
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+  .work-list {
+    display: flex;
+    gap: 30px;
+  }
+  .studio-work {
+    border-top: none;
+    border: 1px solid #eeeeee;
+    width: 370px;
+  }
+  .work-div {
+    width: 270px;
+    height: 120px;
+    background-color: #f5f4fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+  }

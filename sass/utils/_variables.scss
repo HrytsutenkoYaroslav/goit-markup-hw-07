@@ -5,3 +5,7 @@
     --primary-white-color: #ffffff;
     --secondary-bg-color: #f5f4fa;
   }
+  .no-transparency {
+    background-color: rgba(47, 48, 58, 0.4);
+    backdrop-filter: blur(4px);
+  }
