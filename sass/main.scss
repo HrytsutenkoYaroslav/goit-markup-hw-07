@@ -1,1 +1,10 @@
-@inport './utils/variables';
+@import './utils/variables';
+@import './base/base';
+@import './components/container';
+@import './components/section';
+@import './components/button';
+
+@import './components/header';
+@import './components/logo';
+@import './components/nav';
+@import './components/contacts';
