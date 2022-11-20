@@ -28,3 +28,25 @@
     display: flex;
     gap: 30px;
   }
+  .work-header {
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+  .work-list {
+    display: flex;
+    gap: 30px;
+  }
+  .studio-work {
+    border-top: none;
+    border: 1px solid #eeeeee;
+    width: 370px;
+  }
+  .work-div {
+    width: 270px;
+    height: 120px;
+    background-color: #f5f4fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+  }

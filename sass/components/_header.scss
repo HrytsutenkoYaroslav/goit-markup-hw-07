@@ -32,3 +32,9 @@
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
+  .head-border {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+  }
